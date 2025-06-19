@@ -9,5 +9,5 @@ A financial services website built with HTML, CSS, and JavaScript.
 - JavaScript animation for the navigation menu
 - Technologies Used
   
-### Demo [Link](https://muthuraj107.github.io/EdgeLedger/)
+### Demo [Link](https://muthuraj-v.github.io/EdgeLedger/)
   
